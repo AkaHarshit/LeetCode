@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AkaHarshit/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
+| [1470-shuffle-the-array](https://github.com/AkaHarshit/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AkaHarshit/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AkaHarshit/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/AkaHarshit/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
