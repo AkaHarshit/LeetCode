@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkaHarshit/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/AkaHarshit/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AkaHarshit/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/AkaHarshit/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 <!---LeetCode Topics End-->
