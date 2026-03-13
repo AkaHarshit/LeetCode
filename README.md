@@ -16,12 +16,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkaHarshit/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkaHarshit/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AkaHarshit/LeetCode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/AkaHarshit/LeetCode/tree/main/3349-adjacent-increasing-subarrays-detection-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AkaHarshit/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AkaHarshit/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0840-magic-squares-in-grid](https://github.com/AkaHarshit/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AkaHarshit/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AkaHarshit/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -112,4 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AkaHarshit/LeetCode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 <!---LeetCode Topics End-->
