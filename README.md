@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AkaHarshit/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AkaHarshit/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/AkaHarshit/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/AkaHarshit/LeetCode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AkaHarshit/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AkaHarshit/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkaHarshit/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0840-magic-squares-in-grid](https://github.com/AkaHarshit/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AkaHarshit/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/AkaHarshit/LeetCode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AkaHarshit/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sorting
@@ -130,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AkaHarshit/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/AkaHarshit/LeetCode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 <!---LeetCode Topics End-->
