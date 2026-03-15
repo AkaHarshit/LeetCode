@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0840-magic-squares-in-grid](https://github.com/AkaHarshit/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AkaHarshit/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1622-fancy-sequence](https://github.com/AkaHarshit/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/AkaHarshit/LeetCode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AkaHarshit/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -136,4 +137,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/AkaHarshit/LeetCode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/AkaHarshit/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/AkaHarshit/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
