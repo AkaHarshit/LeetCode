@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AkaHarshit/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/AkaHarshit/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AkaHarshit/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/AkaHarshit/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/AkaHarshit/LeetCode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkaHarshit/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AkaHarshit/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AkaHarshit/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AkaHarshit/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/AkaHarshit/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AkaHarshit/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Matrix
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AkaHarshit/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/AkaHarshit/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AkaHarshit/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/AkaHarshit/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkaHarshit/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -91,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AkaHarshit/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/AkaHarshit/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkaHarshit/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AkaHarshit/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkaHarshit/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
