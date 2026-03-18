@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0840-magic-squares-in-grid](https://github.com/AkaHarshit/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
+| [1025-divisor-game](https://github.com/AkaHarshit/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AkaHarshit/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1622-fancy-sequence](https://github.com/AkaHarshit/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/AkaHarshit/LeetCode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
@@ -101,11 +102,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1025-divisor-game](https://github.com/AkaHarshit/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AkaHarshit/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/AkaHarshit/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [1025-divisor-game](https://github.com/AkaHarshit/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AkaHarshit/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AkaHarshit/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AkaHarshit/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -174,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/AkaHarshit/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/AkaHarshit/LeetCode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
