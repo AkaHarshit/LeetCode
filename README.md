@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AkaHarshit/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/AkaHarshit/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0877-stone-game](https://github.com/AkaHarshit/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/AkaHarshit/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1470-shuffle-the-array](https://github.com/AkaHarshit/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AkaHarshit/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AkaHarshit/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AkaHarshit/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/AkaHarshit/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/AkaHarshit/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AkaHarshit/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AkaHarshit/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkaHarshit/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/AkaHarshit/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/AkaHarshit/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1025-divisor-game](https://github.com/AkaHarshit/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/AkaHarshit/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AkaHarshit/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AkaHarshit/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AkaHarshit/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
