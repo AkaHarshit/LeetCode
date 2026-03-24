@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/AkaHarshit/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkaHarshit/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [3110-score-of-a-string](https://github.com/AkaHarshit/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/AkaHarshit/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,4 +221,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/AkaHarshit/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/AkaHarshit/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 <!---LeetCode Topics End-->
