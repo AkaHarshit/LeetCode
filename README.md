@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AkaHarshit/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/AkaHarshit/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0877-stone-game](https://github.com/AkaHarshit/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AkaHarshit/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AkaHarshit/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AkaHarshit/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/AkaHarshit/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/AkaHarshit/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,5 +251,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AkaHarshit/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
