@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3516-find-closest-person](https://github.com/AkaHarshit/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AkaHarshit/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/AkaHarshit/LeetCode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/AkaHarshit/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AkaHarshit/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AkaHarshit/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/AkaHarshit/LeetCode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
