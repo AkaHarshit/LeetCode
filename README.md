@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkaHarshit/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AkaHarshit/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/AkaHarshit/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AkaHarshit/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/AkaHarshit/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/AkaHarshit/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AkaHarshit/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/AkaHarshit/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkaHarshit/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AkaHarshit/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AkaHarshit/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AkaHarshit/LeetCode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/AkaHarshit/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/AkaHarshit/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkaHarshit/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AkaHarshit/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AkaHarshit/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AkaHarshit/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
