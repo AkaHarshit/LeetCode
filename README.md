@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AkaHarshit/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AkaHarshit/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AkaHarshit/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/AkaHarshit/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkaHarshit/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/AkaHarshit/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AkaHarshit/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkaHarshit/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AkaHarshit/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/AkaHarshit/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AkaHarshit/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2751-robot-collisions](https://github.com/AkaHarshit/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AkaHarshit/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
