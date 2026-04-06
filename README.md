@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/AkaHarshit/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AkaHarshit/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/AkaHarshit/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/AkaHarshit/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/AkaHarshit/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AkaHarshit/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/AkaHarshit/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/AkaHarshit/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkaHarshit/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AkaHarshit/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AkaHarshit/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AkaHarshit/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AkaHarshit/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/AkaHarshit/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AkaHarshit/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/AkaHarshit/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/AkaHarshit/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
