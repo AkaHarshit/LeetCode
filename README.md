@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/AkaHarshit/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/AkaHarshit/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AkaHarshit/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkaHarshit/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/AkaHarshit/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
