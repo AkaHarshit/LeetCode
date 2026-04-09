@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AkaHarshit/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/AkaHarshit/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AkaHarshit/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/AkaHarshit/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AkaHarshit/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
