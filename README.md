@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkaHarshit/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AkaHarshit/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/AkaHarshit/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/AkaHarshit/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AkaHarshit/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AkaHarshit/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/AkaHarshit/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AkaHarshit/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/AkaHarshit/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/AkaHarshit/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/AkaHarshit/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
