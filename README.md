@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkaHarshit/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AkaHarshit/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AkaHarshit/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1534-count-good-triplets](https://github.com/AkaHarshit/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AkaHarshit/LeetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AkaHarshit/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AkaHarshit/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1534-count-good-triplets](https://github.com/AkaHarshit/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkaHarshit/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/AkaHarshit/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/AkaHarshit/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
