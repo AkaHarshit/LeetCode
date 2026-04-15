@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AkaHarshit/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AkaHarshit/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkaHarshit/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/AkaHarshit/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AkaHarshit/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AkaHarshit/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AkaHarshit/LeetCode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
