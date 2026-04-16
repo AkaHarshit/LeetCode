@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/AkaHarshit/LeetCode/tree/main/3349-adjacent-increasing-subarrays-detection-i/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AkaHarshit/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/AkaHarshit/LeetCode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
+| [3477-fruits-into-baskets-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/AkaHarshit/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AkaHarshit/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2181-merge-nodes-in-between-zeros](https://github.com/AkaHarshit/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2751-robot-collisions](https://github.com/AkaHarshit/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AkaHarshit/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AkaHarshit/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkaHarshit/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3477-fruits-into-baskets-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/AkaHarshit/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [1622-fancy-sequence](https://github.com/AkaHarshit/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+| [3477-fruits-into-baskets-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,4 +381,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AkaHarshit/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 <!---LeetCode Topics End-->
