@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AkaHarshit/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/AkaHarshit/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/AkaHarshit/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/AkaHarshit/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkaHarshit/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AkaHarshit/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/AkaHarshit/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AkaHarshit/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/AkaHarshit/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Queue
