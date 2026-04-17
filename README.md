@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AkaHarshit/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AkaHarshit/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3516-find-closest-person](https://github.com/AkaHarshit/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AkaHarshit/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AkaHarshit/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/AkaHarshit/LeetCode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-equal-sum-grid-partition-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AkaHarshit/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AkaHarshit/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
