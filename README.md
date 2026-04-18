@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3516-find-closest-person](https://github.com/AkaHarshit/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AkaHarshit/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AkaHarshit/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/AkaHarshit/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/AkaHarshit/LeetCode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
