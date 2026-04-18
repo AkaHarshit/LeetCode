@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/AkaHarshit/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/AkaHarshit/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -380,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
