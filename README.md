@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AkaHarshit/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/AkaHarshit/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/AkaHarshit/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/AkaHarshit/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/AkaHarshit/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/AkaHarshit/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/AkaHarshit/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/AkaHarshit/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/AkaHarshit/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/AkaHarshit/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -355,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/AkaHarshit/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AkaHarshit/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/AkaHarshit/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -368,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/AkaHarshit/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkaHarshit/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/AkaHarshit/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Union-Find
@@ -378,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/AkaHarshit/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/AkaHarshit/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/AkaHarshit/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AkaHarshit/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/AkaHarshit/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
