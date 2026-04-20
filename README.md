@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/AkaHarshit/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/AkaHarshit/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0771-jewels-and-stones](https://github.com/AkaHarshit/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AkaHarshit/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/AkaHarshit/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AkaHarshit/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AkaHarshit/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0771-jewels-and-stones](https://github.com/AkaHarshit/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AkaHarshit/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/AkaHarshit/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AkaHarshit/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
