@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AkaHarshit/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AkaHarshit/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AkaHarshit/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AkaHarshit/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/AkaHarshit/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Matrix
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AkaHarshit/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/AkaHarshit/LeetCode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkaHarshit/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AkaHarshit/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AkaHarshit/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/AkaHarshit/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkaHarshit/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkaHarshit/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AkaHarshit/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/AkaHarshit/LeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AkaHarshit/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AkaHarshit/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/AkaHarshit/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/AkaHarshit/LeetCode/tree/main/2751-robot-collisions/) | Hard |
